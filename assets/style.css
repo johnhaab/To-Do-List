@@ -1,3 +1,10 @@
+/*
+
+Currently reworking this CSS with SASS to make it more modern.
+
+*/
+
+
 #items {
     display: flex;
     flex-direction: column;
